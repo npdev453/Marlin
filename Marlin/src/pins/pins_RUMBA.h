@@ -184,3 +184,6 @@
   #define LCD_PINS_D5      38
   #define LCD_PINS_D6      41
 #endif
+
+#define DOGLCD_A0 41
+#define DOGLCD_CS 38
